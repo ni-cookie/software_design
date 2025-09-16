@@ -1,0 +1,3 @@
+[submodule "workshop_2"]
+	path = workshop_2
+	url = https://github.com/ni-cookie/workshop_2.git
