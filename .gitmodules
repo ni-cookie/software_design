@@ -1,3 +1,6 @@
 [submodule "workshop_2"]
 	path = workshop_2
 	url = https://github.com/ni-cookie/workshop_2.git
+[submodule "workshop_3"]
+	path = workshop_3
+	url = https://github.com/ni-cookie/secure-api-lab.git
