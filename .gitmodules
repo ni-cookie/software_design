@@ -4,3 +4,6 @@
 [submodule "workshop_3"]
 	path = workshop_3
 	url = https://github.com/ni-cookie/secure-api-lab.git
+[submodule "workshop_5"]
+	path = workshop_5
+	url = https://github.com/ni-cookie/typeorm-express-typescript.git
