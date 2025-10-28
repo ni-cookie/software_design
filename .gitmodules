@@ -7,3 +7,6 @@
 [submodule "workshop_5"]
 	path = workshop_5
 	url = https://github.com/ni-cookie/typeorm-express-typescript.git
+[submodule "workshop_8_9"]
+	path = workshop_8_9
+	url = https://github.com/ni-cookie/vite-react-boilerplate.git
